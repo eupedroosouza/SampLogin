@@ -1,0 +1,14 @@
+mysql:
+  user: 'root'
+  password: ''
+  host: 'localhost'
+  port: 3306
+  database: 'samplogin'
+
+email:
+  server: 'smtp.office365.com'
+  port: 587
+  user: ''
+  password: ''
+  email: ''
+  name: 'SampLogin'
