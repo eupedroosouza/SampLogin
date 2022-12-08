@@ -5,33 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0142fc67-702d-490d-94f4-4b2e5d09f76c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/commands/PlayerCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/config/DefaultConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/controller/ConfirmationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/controller/PlayerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/database/SQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/listeners/DialogLoginListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/listeners/PlayerDisconnectListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/listeners/PlayerLoginListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/model/ConfirmationCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/model/Dialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/model/PlayerData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/model/data/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/model/data/LastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/repository/PlayerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/service/SendEmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/utils/CriptyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/utils/EmailUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/login/samp/utils/GenerateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/login/samp/controller/ConfirmationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/login/samp/controller/ConfirmationController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -65,7 +65,7 @@ public class ConfirmationController {
                     ".\n\n* Se você não se cadastrou em SampLogin, ignore este e-mail.");
 
             Transport.send(message);
-            System.out.println(message + ": enviado.");
+            //System.out.println(message + ": enviado.");
         }catch(MessagingException | UnsupportedEncodingException ex){
             ex.printStackTrace();
         }
