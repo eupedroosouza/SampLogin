@@ -17,7 +17,7 @@
         <shoebill.repositoryPath>F:\Servidores\Shoebill\shoebill\repository</shoebill.repositoryPath>-->
     </properties>
 
-    <distributionManagement>
+    <!--<distributionManagement>
         <repository>
             <id>shoebill-repository</id>
             <name>Releases</name>
@@ -30,7 +30,7 @@
             <id>shoebill-repository</id>
             <url>file://${shoebill.repositoryPath}</url>
         </repository>
-    </repositories>
+    </repositories>-->
 
     <dependencies>
         <dependency>
